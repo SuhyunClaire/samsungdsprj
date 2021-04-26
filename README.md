@@ -45,4 +45,4 @@ To upgrade the driver to the latest version (across supported Kubernetes/OpenShi
 To install CSI drivers using operator please refer here at [https://dell.github.io/storage-plugin-docs/docs/installation/operator/#install-csi-driver](https://dell.github.io/storage-plugin-docs/docs/installation/operator/#install-csi-driver)
 
 ## Uninstall CSI Drivers
-To uninstall CSI drivers installed using operator please refer here at [https://dell.github.io/storage-plugin-docs/docs/uninstall/#uninstall-a-dell-csi-driver-installed-via-dell-csi-operator](https://dell.github.io/storage-plugin-docs/docs/uninstall/#uninstall-a-dell-csi-driver-installed-via-dell-csi-operator)
+To uninstall CSI drivers installed using operator please refer here at [https://dell.github.io/storage-plugin-docs/docs/uninstall/#uninstall-a-dell-csi-driver-installed-via-dell-csi-operator](https://dell.github.io/storage-plugin-docs/docs/uninstall/#uninstall-a-dell-csi-driver-installed-via-dell-csi-operator)# samsungdsprj
